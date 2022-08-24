@@ -1,0 +1,2 @@
+# exercises
+Solve simple exercises
